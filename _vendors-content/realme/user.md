@@ -1,4 +1,4 @@
----
+root redmi note 14 5G---
 manufacturer: 
     - realme
 
